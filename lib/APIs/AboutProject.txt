@@ -1,0 +1,29 @@
+Maps SDk for Android
+Google Maps Api key = AIzaSyAxqRBidUyCmkVSj26CBe7505kTykXsWDk
+
+Solution to the error because of the Google maps Api Key:-
+https://iamsapankumar.blogspot.com/2020/10/flutter-google-maps.html
+
+For place Suggestion APi used is Mapforindia api
+
+Interactive map Api =
+OAuth2
+clientID =
+ClientSecret =
+Rest Api Key =
+Grasshopper key:-
+Here's how I solved the Daemon error:-
+
+https://stackoverflow.com/questions/55591958/flutter-firestore-causing-d8-cannot-fit-requested-classes-in-a-single-dex-file
+
+
+gradle.properties
+org.gradle.jvmargs=-Xmx1536M
+android.useAndroidX=true
+android.enableJetifier=true
+android.enableR8=true
+android.enableDexingArtifactTransform=false
+
+build.graddle
+'com.android.tools.build:gradle:4.1.0' to
+classpath 'com.android.tools.build:gradle:3.6.2'
