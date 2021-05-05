@@ -1,5 +1,5 @@
 Maps SDk for Android
-Google Maps Api key = AIzaSyAxqRBidUyCmkVSj26CBe7505kTykXsWDk
+Google Maps Api key = 
 
 Solution to the error because of the Google maps Api Key:-
 https://iamsapankumar.blogspot.com/2020/10/flutter-google-maps.html
